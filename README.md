@@ -1,1 +1,1 @@
-- Criando aplicativo PWA através do React.js
+- Criando aplicação PWA com React.js
